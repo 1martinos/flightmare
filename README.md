@@ -1,3 +1,12 @@
+# Changes
+
+This repo includes some changes to some dependencies, and an install script has been added to aid the installation process.
+To install, run the 'install.sh' file as sudo.
+This may need to be given executable permissions by running: 
+'''
+chmod +x install.sh
+'''
+
 # Flightmare - 左青龙
 
 ![Build Status](https://github.com/uzh-rpg/flightmare/workflows/CPP_CI/badge.svg) ![clang format](https://github.com/uzh-rpg/flightmare/workflows/clang_format/badge.svg)
