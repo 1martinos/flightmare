@@ -1,11 +1,15 @@
 # Changes
 
 This repo includes some changes to some dependencies, and an install script has been added to aid the installation process.
-To install, run the 'install.sh' file as sudo.
+To install, first make sure there is a working conda/miniconda installation and then run the 'install.sh' file as sudo.
 This may need to be given executable permissions by running: 
 ```
 chmod +x install.sh
 ```
+Conda can be found at https://docs.conda.io/en/latest/miniconda.html
+
+
+
 
 # Flightmare - 左青龙
 
